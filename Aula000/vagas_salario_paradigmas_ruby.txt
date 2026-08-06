@@ -1,0 +1,12 @@
+Vaga de Desenvolvedor Ruby on Rails 
+ Cerca de 100 vagas encontradas para o Brasil e exterior 
+
+Faixa salarial (Brasil)
+Júnior: R$ 4.000 a R$ 7.000/mês
+Pleno: R$ 7.000 a R$ 12.000/mês
+Sênior: R$ 12.000 a R$ 20.000+/mês.
+
+Paradigmas da linguagem Ruby
+-Orientação a Objetos
+-Programação Funcional
+-Programação Imperativa
